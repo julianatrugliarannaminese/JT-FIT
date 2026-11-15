@@ -1,0 +1,5 @@
+[functions.get-workout]
+verify_jwt = false
+
+[functions.create-workout-link]
+verify_jwt = true
